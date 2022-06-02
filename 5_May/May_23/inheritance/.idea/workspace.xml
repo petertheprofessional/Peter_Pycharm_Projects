@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="293d3e7d-e7d3-48d0-8123-92a390766cb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apr_19/.idea/introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apr_20/.idea/Apr_20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apr_27/.idea/Apr_27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apr_28/.idea/Apr_28.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_11/.idea/May_11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/.idea/May_16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/Exercises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/ExerisesA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/csv_values.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/reading_&amp;_manipulate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/reading_alt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/reading_file_ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/reading_file_ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/reading_file_ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/task1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/task2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/task3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/task4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/task5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/task6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/write_appending_ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_16/write_file_ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_17/.idea/May_17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_17/I_Know_Everything.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_17/My_Loved_Users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_17/from_json_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_17/from_json_list_with_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_17/from_json_obj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_17/list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_17/simple_object.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_17/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_17/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_18/.idea/May_18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_18/Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_18/Classes_pt2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_18/bin_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_18/class_relation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/.idea/May_19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/tv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/tv_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/tv_party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/tv_party_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_19/users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/App.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/canvas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_3/.idea/May_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_4/.idea/May_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_5/.idea/May_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../May_9/.idea/May_9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29ZCzDGTzmg5Ei3Stp7jHJ4KDDG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/user/PycharmProjects/pythonProject/May_23"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="inheritance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="293d3e7d-e7d3-48d0-8123-92a390766cb7" name="Changes" comment="" />
+      <created>1653311480477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653311480477</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
